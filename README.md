@@ -26,8 +26,8 @@ The agent learns to drive, overtake traffic, and navigate curved roads using **P
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/autonomous-driving-rl.git](https://github.com/your-username/autonomous-driving-rl.git)
-    cd autonomous-driving-rl
+    git clone https://github.com/sankalpalokuliyanage/RL_selfDriving_CAR.git
+    cd RL_selfDriving_CAR
     ```
 
 2.  **Install dependencies:**
