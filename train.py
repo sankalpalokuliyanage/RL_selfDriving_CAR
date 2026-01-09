@@ -24,7 +24,7 @@ print("--------------------------------")
 
 # 3. Train for 300,000 steps
 # (If it drives badly, increase this to 500,000 or 1,000,000)
-model.learn(total_timesteps=300000)
+model.learn(total_timesteps=500000)
 
 # 4. Save
 model_path = "ultimate_brain"
